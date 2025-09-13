@@ -1,0 +1,160 @@
+:root {
+  --section-bg: #f8f9fa;
+  --card-bg: #ffffff;
+  --heading-color: #343a40;
+  --text-color: #495057;
+  --primary-color: #ff6b6b;
+  --accent-color: #ffe8e8;
+  --border-radius: 10px;
+  --font-body: 'Segoe UI', sans-serif;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* ===========================
+   Base Styles
+=========================== */
+.pet-care-section {
+  padding: 60px 0;
+  background-color: var(--section-bg);
+  font-family: var(--font-body);
+}
+
+.section-title {
+  text-align: center;
+  color: var(--heading-color);
+  font-size: 2.2rem;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+/* ===========================
+   Card Styles
+=========================== */
+.pet-care-card {
+  background-color: var(--card-bg);
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  padding: 25px;
+  transition: transform 0.2s ease;
+}
+
+.pet-care-card:hover {
+  transform: translateY(-5px);
+}
+
+.pet-care-card h3 {
+  font-size: 1.4rem;
+  color: var(--primary-color);
+  margin-bottom: 20px;
+}
+
+.pet-care-card p,
+.pet-care-card li {
+  color: var(--text-color);
+  font-size: 0.95rem;
+}
+
+/* ===========================
+   Feeding Guide Tabs
+=========================== */
+.nav-pills .nav-link {
+  background-color: var(--accent-color);
+  color: var(--primary-color);
+  margin-right: 10px;
+  border-radius: 30px;
+  transition: all 0.3s ease;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.feeding-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+.feeding-table th,
+.feeding-table td {
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+/* ===========================
+   Progress Bars
+=========================== */
+.progress {
+  height: 10px;
+  margin-bottom: 15px;
+  background-color: #e9ecef;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  border-radius: 20px;
+}
+
+/* ===========================
+   Video Embeds
+=========================== */
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--border-radius);
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* ===========================
+   Audio Player
+=========================== */
+.audio-player {
+  width: 100%;
+  margin-top: 15px;
+  outline: none;
+}
+
+/* ===========================
+   Responsive
+=========================== */
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 1.8rem;
+  }
+
+  .pet-care-card {
+    margin-bottom: 30px;
+  }
+}

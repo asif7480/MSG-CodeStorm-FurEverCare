@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Premium Dog Food",
+      "category": "food",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Nutritionally balanced food for adult dogs with real chicken and vegetables. Supports healthy digestion and shiny coat."
+    },
+    {
+      "id": 2,
+      "name": "Interactive Cat Toys",
+      "category": "toys",
+      "price": 15.99,
+      "image": "https://images.unsplash.com/photo-1591946614720-90a587da4a36?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Keep your feline friend entertained for hours with this interactive laser toy. Encourages exercise and mental stimulation."
+    },
+    {
+      "id": 3,
+      "name": "Professional Grooming Kit",
+      "category": "grooming",
+      "price": 34.99,
+      "image": "https://plus.unsplash.com/premium_photo-1661315433170-b5c1cb6e730b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Complete grooming set including brush, shampoo, and nail clippers. Everything you need to keep your pet looking their best."
+    },
+    {
+      "id": 4,
+      "name": "Luxury Pet Bed",
+      "category": "bedding",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Memory foam bed provides superior comfort and support for your dog. Removable cover is machine washable."
+    },
+    {
+      "id": 5,
+      "name": "Joint Health Supplements",
+      "category": "supplements",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Supports joint health and mobility for dogs of all ages and breeds. Contains glucosamine and chondroitin."
+    },
+    {
+      "id": 6,
+      "name": "Organic Cat Food",
+      "category": "food",
+      "price": 26.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3bbMc6MZBCw1ZaTyj4y9JzxS8P8ux_ZX93Q&s",
+      "description": "High-protein, grain-free formula for indoor cats with sensitive stomachs. Made with organic ingredients."
+    },
+    {
+      "id": 7,
+      "name": "Chew Toys Bundle",
+      "category": "toys",
+      "price": 22.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMmwjbcK0RVx6NXTSpULpCLCFAl0wwo1QLQ&s",
+      "description": "A variety of durable chew toys for dogs of all sizes. Helps clean teeth and satisfy natural chewing instincts."
+    },
+    {
+      "id": 8,
+      "name": "Shedding Control Brush",
+      "category": "grooming",
+      "price": 16.99,
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Reduces shedding by up to 90% with its innovative design. Gentle on skin but effective on loose fur."
+    },
+    {
+      "id": 9,
+      "name": "Winter Pet Jacket",
+      "category": "bedding",
+      "price": 27.99,
+      "image": "https://images.unsplash.com/photo-1596386461350-326ccb383e9f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Keep your pet warm and stylish during winter months. Water-resistant and available in multiple sizes."
+    },
+    {
+      "id": 10,
+      "name": "Dental Health Chews",
+      "category": "supplements",
+      "price": 18.99,
+      "image": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Promotes dental health and fresh breath for your pet. Reduces plaque and tartar buildup naturally."
+    },
+    {
+      "id": 11,
+      "name": "Grain-Free Puppy Food",
+      "category": "food",
+      "price": 28.99,
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "description": "Specially formulated for growing puppies with sensitive stomachs. Grain-free recipe with real salmon."
+    },
+    {
+      "id": 12,
+      "name": "Interactive Puzzle Feeder",
+      "category": "toys",
+      "price": 19.99,
+      "image": "https://www.gosupps.com/media/catalog/product/cache/25/image/1500x/040ec09b1e35df139433887a97daa66f/5/1/51Uf7cBeMNL._AC_.jpg",
+      "description": "Stimulates your pet's mind during mealtime. Slows down eating and provides mental enrichment."
+    }
+]

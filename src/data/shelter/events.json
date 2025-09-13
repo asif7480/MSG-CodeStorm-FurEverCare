@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Adoption Drive",
+    "date": "June 15-17, 2023",
+    "time": "10:00 AM - 4:00 PM",
+    "description": "Join us for our biggest adoption event of the year! Reduced adoption fees, free pet goodie bags, and expert advice on pet care.",
+    "link": "#",
+    "linkText": "Learn More"
+  },
+  {
+    "id": 2,
+    "title": "Vaccination Camp",
+    "date": "July 8, 2023",
+    "time": "9:00 AM - 2:00 PM",
+    "description": "Free vaccinations for pets from low-income households. Rabies, DHPP, and FVRCP vaccines available. First come, first served.",
+    "link": "#",
+    "linkText": "Learn More"
+  },
+  {
+    "id": 3,
+    "title": "Pet First Aid Workshop",
+    "date": "August 12, 2023",
+    "time": "11:00 AM - 1:00 PM",
+    "description": "Learn essential pet first aid skills from certified veterinarians. This hands-on workshop will teach you how to handle common pet emergencies.",
+    "link": "#",
+    "linkText": "Register"
+  },
+  {
+    "id": 4,
+    "title": "Annual Fundraising Gala",
+    "date": "September 23, 2023",
+    "time": "6:00 PM - 10:00 PM",
+    "description": "Join us for an evening of dinner, dancing, and auctions to support our shelter animals. All proceeds go towards medical care and supplies.",
+    "link": "#",
+    "linkText": "Get Tickets"
+  }
+]

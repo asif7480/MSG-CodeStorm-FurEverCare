@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "fas fa-graduation-cap",
+    "title": "Basic Commands",
+    "description": "Start with simple commands like \"sit\", \"stay\", and \"come\". Use positive reinforcement with treats and praise.",
+    "subheading": "Training Steps:",
+    "steps": [
+      "Use small, high-value treats",
+      "Keep sessions short (5-10 minutes)",
+      "Practice in different environments",
+      "Be consistent with commands"
+    ],
+    "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 2,
+    "icon": "fas fa-graduation-cap",
+    "title": "Potty Training",
+    "description": "Establish a consistent routine for bathroom breaks. Take your pet out first thing in the morning, after meals, and before bedtime.",
+    "subheading": "Successful Potty Training:",
+    "steps": [
+      "Establish a regular feeding schedule",
+      "Take puppy out frequently",
+      "Use a consistent potty spot",
+      "Praise and reward immediately after success"
+    ],
+    "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  }
+]

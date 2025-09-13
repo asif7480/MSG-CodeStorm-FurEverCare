@@ -1,0 +1,35 @@
+.hero-section {
+  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+  color: white;
+  padding: 80px 15px;
+  font-family: var(--font-family);
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.hero-section p.lead {
+  color: #ff6b6b;
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+}
+
+.hero-section .btn-primary {
+  border: none;
+  background-color: white;
+  color: var(--primary-color);
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 50px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.hero-section .btn-primary:hover {
+    
+  background-color: #ff6b6b;
+  color: white;
+}

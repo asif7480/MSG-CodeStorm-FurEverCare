@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Luna – Recovery from Parvovirus",
+    "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16",
+    "description": "Luna, a 4-month-old Labrador, was admitted with severe parvovirus symptoms. After a 5-day treatment plan with IV fluids and antibiotics, she fully recovered.",
+    "vet": "Dr. Meera Patel",
+    "date": "July 2025"
+  },
+  {
+    "id": 2,
+    "title": "Max – Hip Dysplasia Treatment",
+    "image": "https://images.unsplash.com/photo-1568572933382-74d440642117",
+    "description": "Max, a 3-year-old German Shepherd, underwent physiotherapy and medication for hip dysplasia. Improvement in mobility and quality of life was observed in 6 weeks.",
+    "vet": "Dr. Arjun Menon",
+    "date": "June 2025"
+  },
+  {
+    "id": 3,
+    "title": "Milo – Dental Surgery Success",
+    "image": "https://images.unsplash.com/photo-1598133894003-cdca350d3b38",
+    "description": "Milo, a Persian cat, had severe gingivitis requiring dental extraction. The surgery was successful, and recovery was smooth with a soft diet regimen.",
+    "vet": "Dr. Ayesha Khan",
+    "date": "August 2025"
+  },
+  {
+    "id": 4,
+    "title": "Bella – Skin Allergy Management",
+    "image": "https://images.unsplash.com/photo-1583511655794-4f2ec3d5f3f9",
+    "description": "Bella, a Golden Retriever, showed signs of chronic skin irritation. A hypoallergenic diet and medicated baths reduced flare-ups significantly.",
+    "vet": "Dr. Ravi Desai",
+    "date": "May 2025"
+  },
+  {
+    "id": 5,
+    "title": "Charlie – Broken Leg Surgery",
+    "image": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238",
+    "description": "Charlie, a playful Beagle, broke his front leg after a jump. Surgery and 8 weeks of rest brought full recovery.",
+    "vet": "Dr. Natasha Rao",
+    "date": "April 2025"
+  },
+  {
+    "id": 6,
+    "title": "Simba – Feline Asthma Relief",
+    "image": "https://images.unsplash.com/photo-1555685812-4b943f1cb0eb",
+    "description": "Simba, a 2-year-old tabby, had recurrent coughing spells. Nebulizer treatment and steroids helped manage asthma symptoms effectively.",
+    "vet": "Dr. Arjun Menon",
+    "date": "March 2025"
+  },
+  {
+    "id": 7,
+    "title": "Coco – Weight Management Program",
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
+    "description": "Coco, a 5-year-old Dachshund, struggled with obesity. A vet-supervised diet and exercise plan helped her shed 4kg over 3 months.",
+    "vet": "Dr. Meera Patel",
+    "date": "February 2025"
+  },
+  {
+    "id": 8,
+    "title": "Rocky – Tick Fever Recovery",
+    "image": "https://images.unsplash.com/photo-1603397469547-38ba4035f89c",
+    "description": "Rocky, an indie dog, was diagnosed with tick fever. Prompt treatment with antibiotics led to full recovery within 10 days.",
+    "vet": "Dr. Farhan Qureshi",
+    "date": "January 2025"
+  },
+  {
+    "id": 9,
+    "title": "Whiskers – Urinary Blockage Surgery",
+    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d",
+    "description": "Whiskers, a male cat, was rushed in with a urinary blockage. Emergency surgery was performed and the cat recovered with a special diet.",
+    "vet": "Dr. Ayesha Khan",
+    "date": "December 2024"
+  },
+  {
+    "id": 10,
+    "title": "Buddy – Kennel Cough Recovery",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1d3a2d4",
+    "description": "Buddy, a pug, contracted kennel cough after a kennel stay. With cough suppressants and rest, he bounced back within 2 weeks.",
+    "vet": "Dr. Ravi Desai",
+    "date": "November 2024"
+  }
+]

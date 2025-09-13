@@ -1,0 +1,100 @@
+.search-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 25px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.search-input:focus {
+  border-color: #2c3e50;
+}
+
+.pet-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  justify-items: center; /* centers cards horizontally */
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.pet-card {
+  width: 320px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.pet-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+
+.pet-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.pet-content {
+  padding: 1rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.pet-name {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #2c3e50;
+}
+
+.pet-breed-age {
+  margin: 0.3rem 0;
+  font-weight: 600;
+  color: #7f8c8d;
+}
+
+.pet-description {
+  flex-grow: 1;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #34495e;
+  margin-bottom: 1rem;
+}
+
+.pet-badge {
+  align-self: flex-start;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.8rem;
+  border-radius: 20px;
+  color: white;
+  text-transform: capitalize;
+}
+
+/* Color coding for pet types */
+.pet-badge-dog {
+  background-color: #27ae60;
+}
+
+.pet-badge-cat {
+  background-color: #8e44ad;
+}
+
+.pet-badge-rabbit {
+  background-color: #f39c12;
+}

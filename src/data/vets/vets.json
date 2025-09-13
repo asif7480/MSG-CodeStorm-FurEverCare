@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Veterinary Surgeon & Internal Medicine Specialist",
+    "phone": "(555) 123-4567",
+    "email": "dr.johnson@petcare.com",
+    "img": "https://avatars.mds.yandex.net/i?id=e41d64431b590dfb9b9c8306b20848a5f18e6c10-11431157-images-thumbs&n=13",
+    "profileLink": "profile.html"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Michael Lee",
+    "specialization": "Exotic Pets & Wildlife Specialist",
+    "phone": "(555) 987-6543",
+    "email": "dr.lee@petcare.com",
+    "img": "https://avatars.mds.yandex.net/i?id=22c4676f5eeb85081b72f4e0c42a116639d2aeda-8770658-images-thumbs&n=13",
+    "profileLink": "profile.html"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Carter",
+    "specialization": "Small Animals & Dermatology Expert",
+    "phone": "(555) 246-8100",
+    "email": "dr.carter@petcare.com",
+    "img": "https://avatars.mds.yandex.net/i?id=4d3b8b2c91f2cc18b1f1b0b33497dc0a69010836-16514385-images-thumbs&n=13",
+    "profileLink": "profile.html"
+  }
+]

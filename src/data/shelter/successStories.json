@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&q=60",
+    "title": "Max found his forever home",
+    "adopted": "March 2023",
+    "story": "Max has brought so much joy to our family. He's the most loving and playful dog we could have asked for. Thank you Happy Paws for helping us find our perfect match!",
+    "author": "The Johnson Family"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&q=60",
+    "title": "Luna's happy ending",
+    "adopted": "January 2023",
+    "story": "After losing my previous cat, I wasn't sure if I was ready for another pet. But Luna chose me at the shelter and it was the best decision ever. She's been a wonderful companion.",
+    "author": "Sarah Miller"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&q=60",
+    "title": "Bella's transformation",
+    "adopted": "November 2022",
+    "story": "When we first met Bella, she was shy and scared. With patience and love, she has blossomed into the most confident and affectionate rabbit. She's litter-trained and free-roams in our home.",
+    "author": "The Davis Family"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&q=60",
+    "title": "Rocky's second chance",
+    "adopted": "February 2023",
+    "story": "Rocky had been at the shelter for months when we met him. He had some health issues, but the shelter provided all his medical care. Now he's healthy and loves going on hikes with us every weekend.",
+    "author": "Mark Thompson"
+  }
+]

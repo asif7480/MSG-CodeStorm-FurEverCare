@@ -1,0 +1,49 @@
+/* Full Background Like Hero Section */
+.contact-section {
+  /* background: linear-gradient(90deg, #FFBC9A 0%, #FFD4BC 100%); */
+  background: white;
+  padding: 4rem 2rem;
+  min-height: 50vh;
+}
+
+/* Container for width alignment */
+.contact-container {
+  max-width: 1140px;
+  width: 100%;
+}
+
+/* Card Styling for Form and Info */
+.contact-card,
+.contact-info-card {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  padding: 2rem;
+}
+
+/* Submit Button Style (to match hero) */
+.contact-submit-btn {
+  background-color: #FF6F61;
+  border-color: #FF6F61;
+  box-shadow: 0 2px 8px rgba(255, 111, 97, 0.4);
+  font-weight: 600;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.contact-submit-btn:hover {
+  background-color: #e65c50;
+  border-color: #e65c50;
+}
+
+/* Input fields spacing */
+.form-label {
+  font-weight: 600;
+  color: #333;
+}
+
+.map-placeholder {
+  background-color: #f9f9f9;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  border: 1px dashed #ccc;
+}

@@ -1,0 +1,191 @@
+/* ===============================
+   Root Variables
+================================== */
+:root {
+  /* Colors */
+  --primary-color: #ff6b6b;
+  --primary-hover: #ff4c4c;
+  --secondary-color: #ffc107;
+  --text-color: #333;
+  --background-light: #f0f0f0;
+  --white: #fff;
+
+  /* Fonts */
+  --font-heading: 'Segoe UI', sans-serif;
+  --font-body: 'Roboto', sans-serif;
+
+  /* Spacing */
+  --section-padding: 80px;
+  --card-padding: 20px;
+
+  /* Border radius */
+  --radius-sm: 5px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Shadow */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* ===============================
+   Global Styles
+================================== */
+body {
+  font-family: var(--font-body);
+  color: var(--text-color);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* ===============================
+   Hero Section
+================================== */
+.hero {
+  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+  padding: var(--section-padding) 0;
+  text-align: center;
+  color: var(--text-color);
+}
+
+.hero .display-4 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-family: var(--font-heading);
+}
+
+.hero .lead {
+  font-size: 1.25rem;
+  margin-bottom: 30px;
+}
+
+.hero .btn {
+  background-color: var(--primary-color);
+  color: var(--white);
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.hero .btn:hover {
+  background-color: var(--primary-hover);
+}
+
+/* ===============================
+   Section Titles
+================================== */
+.section-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: var(--text-color);
+}
+
+/* ===============================
+   Cards
+================================== */
+.card {
+  border: none;
+  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.card-body {
+  padding: var(--card-padding);
+}
+
+/* ===============================
+   Pet Profile Image
+================================== */
+#pet-profile img {
+  border: 5px solid var(--secondary-color);
+  box-shadow: var(--shadow-sm);
+  border-radius: 50%;
+}
+
+/* ===============================
+   Feeding Guide Tabs
+================================== */
+.nav-pills .nav-link {
+  background-color: var(--background-light);
+  color: var(--text-color);
+  margin-right: 10px;
+  border-radius: 20px;
+  padding: 8px 20px;
+  transition: all 0.3s;
+}
+
+.nav-pills .nav-link.active {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.tab-content ul {
+  padding-left: 20px;
+}
+
+.tab-content li {
+  margin-bottom: 5px;
+}
+
+/* ===============================
+   Responsive Videos
+================================== */
+.ratio {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+/* ===============================
+   Headings and Subheadings
+================================== */
+h3 {
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-family: var(--font-heading);
+  color: #444;
+}
+
+.card h5 {
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+/* ===============================
+   Health Tips iFrames
+================================== */
+#health-tips iframe {
+  border-radius: var(--radius-md);
+  width: 100%;
+  height: 200px;
+}
+
+/* ===============================
+   Training Tips Audio
+================================== */
+audio {
+  border-radius: var(--radius-sm);
+  background-color: #eee;
+}
+
+/* ===============================
+   Responsive Media Queries
+================================== */
+@media (max-width: 768px) {
+  .hero .display-4 {
+    font-size: 2rem;
+  }
+
+  .hero .lead {
+    font-size: 1rem;
+  }
+
+  .nav-pills .nav-link {
+    margin-bottom: 10px;
+  }
+}

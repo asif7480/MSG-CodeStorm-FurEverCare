@@ -1,0 +1,113 @@
+/* Welcome.css */
+
+.card {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(255, 182, 193, 0.3);
+  max-width: 460px;
+  width: 100%;
+  padding: 3rem 2.5rem;
+  font-family: 'Poppins', sans-serif;
+  color: #333;
+}
+
+.imageWrapper {
+  margin-bottom: 1.8rem;
+  text-align: center;
+}
+
+.petImage {
+  width: 100px;
+  filter: drop-shadow(0 3px 3px rgba(255, 182, 193, 0.5));
+}
+
+.title {
+  font-weight: 700;
+  font-size: 1.8rem;
+  text-align: center;
+  color: #d94f68;
+  margin-bottom: 0.4rem;
+}
+
+.subtitle {
+  font-size: 1.05rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-style: italic;
+  color: #b94f61;
+}
+
+.loveText {
+  text-align: center;
+  font-weight: 600;
+  color: #f25c5c;
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+.form {
+  width: 100%;
+}
+
+.label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.input {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 2px solid #f6a5aa;
+  margin-bottom: 1.8rem;
+  font-size: 1rem;
+  outline-color: #f25c5c;
+  box-shadow: 0 4px 10px rgba(242, 92, 92, 0.15);
+  transition: border-color 0.3s ease;
+}
+
+.categoryLabel {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.radioWrapper {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.radioInput {
+  width: 18px;
+  height: 18px;
+  accent-color: #f25c5c;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.radioLabel {
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.submitButton {
+  width: 100%;
+  padding: 14px 0;
+  border-radius: 25px;
+  background-color: #f25c5c;
+  border: none;
+  color: white;
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  cursor: pointer;
+  box-shadow: 0 8px 15px rgba(242, 92, 92, 0.35);
+  transition: background-color 0.3s ease;
+}
+
+.submitButton:hover {
+  background-color: #d94f68;
+}

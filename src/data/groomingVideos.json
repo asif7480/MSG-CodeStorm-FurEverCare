@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "src": "https://www.youtube.com/embed/OIjGpSdxhnE",
+    "title": "How to Care for a Pet (52 Essential Life Skills series)",
+    "heading": "Brushing Techniques",
+    "description": "Learn how to properly brush your dog's coat to prevent matting and reduce shedding."
+  },
+  {
+    "id": 2,
+    "src": "https://www.youtube.com/embed/HXGHNLbA0hQ",
+    "title": "Pet care tips for spring break travel",
+    "heading": "Bathing Your Pet",
+    "description": "Step-by-step guide to making bath time a positive experience for your dog."
+  },
+  {
+    "id": 3,
+    "src": "https://www.youtube.com/embed/Zb3Wzs2FcFE",
+    "title": "Basic Pet Care: Dogs",
+    "heading": "Nail Trimming",
+    "description": "Safe techniques for trimming your dog's nails without causing stress or injury."
+  }
+]

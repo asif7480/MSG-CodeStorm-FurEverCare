@@ -1,0 +1,89 @@
+{
+    "owner": [
+        {
+            "label": "Home",
+            "path": "/owner",
+            "icon": ""
+        },
+        {
+            "label": "Pet Care",
+            "path": "/petcare",
+            "icon": ""
+        },
+        {
+            "label": "About Us",
+            "path": "/about",
+            "icon": ""
+        },
+        {
+            "label": "Products",
+            "path": "/products",
+            "icon": ""
+        },
+        {
+            "label": "Emergency Help",
+            "path": "/emergency",
+            "icon": ""
+        },
+        {
+            "label": "Feedback",
+            "path": "/feedback",
+            "icon": ""
+        },
+        {
+            "label": "Contact Us",
+            "path": "/contact",
+            "icon": ""
+        },
+        {
+            "label": "Visitors",
+            "path": "",
+            "icon": "fas fa-users",
+            "counter": 128
+        }
+    ],
+    "shelter": [
+        {
+            "label": "Home",
+            "path": "/shelter",
+            "icon": ""
+        },
+        {
+            "label": "Gallery",
+            "path": "/shelter/gallery",
+            "icon": ""
+        },
+        {
+            "label": "Success Stories",
+            "path": "/shelter/stories",
+            "icon": ""
+        },
+        {
+            "label": "Events",
+            "path": "/shelter/events",
+            "icon": ""
+        },
+        {
+            "label": "Shelter Contact",
+            "path": "/shelter/shelterContact",
+            "icon": ""
+        }
+    ],
+    "veterinarian": [
+        {
+            "label": "Home",
+            "path": "/veterinarian",
+            "icon": ""
+        },
+        {
+            "label": "Time Slots",
+            "path": "/veterinarian/timeSlots",
+            "icon": ""
+        },
+        {
+            "label": "Case Studies",
+            "path": "/veterinarian/caseStudies",
+            "icon": ""
+        }
+    ]
+}

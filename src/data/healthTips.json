@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "iconClass": "fas fa-teeth me-2",
+    "title": "Oral Care",
+    "description": "Regular dental care is essential for your pet's health. Brush their teeth several times a week with pet-safe toothpaste.",
+    "tipsHeading": "Tips for Better Dental Health:",
+    "tips": [
+      "Brush teeth 2-3 times per week",
+      "Use dental chews and toys",
+      "Schedule annual dental checkups",
+      "Watch for signs of dental disease"
+    ],
+    "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "iconClass": "fas fa-weight me-2",
+    "title": "Weight Management",
+    "description": "Maintain a healthy weight for your pet through proper diet and regular exercise. Consult your vet for ideal weight ranges.",
+    "tipsHeading": "Healthy Weight Tips:",
+    "tips": [
+      "Measure food portions accurately",
+      "Limit treats to 10% of daily calories",
+      "Provide regular exercise",
+      "Monitor body condition score"
+    ],
+    "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "iconClass": "fas fa-heartbeat me-2",
+    "title": "Common Conditions",
+    "description": "Learn to recognize signs of common health issues in pets and when to seek veterinary care.",
+    "tipsHeading": "Watch For These Signs:",
+    "tips": [
+      "Lethargy or decreased activity",
+      "Changes in appetite or thirst",
+      "Vomiting or diarrhea",
+      "Coughing or difficulty breathing"
+    ],
+    "audioSrc": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  }
+]

@@ -1,0 +1,33 @@
+.time-slots-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.time-slot {
+  padding: 12px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 2px solid var(--primary-color);
+  transition: all 0.3s ease;
+  font-weight: 500;
+  background-color: white;
+  color: var(--primary-color);
+  min-width: 120px;
+  text-align: center;
+}
+
+.time-slot.available:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.time-slot.booked {
+  background-color: #ffebee;
+  border-color: #f44336;
+  text-decoration: line-through;
+  color: #888;
+  cursor: not-allowed;
+}
