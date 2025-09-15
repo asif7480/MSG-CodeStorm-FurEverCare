@@ -34,12 +34,6 @@
             "label": "Contact Us",
             "path": "/contact",
             "icon": ""
-        },
-        {
-            "label": "Visitors",
-            "path": "",
-            "icon": "fas fa-users",
-            "counter": 128
         }
     ],
     "shelter": [

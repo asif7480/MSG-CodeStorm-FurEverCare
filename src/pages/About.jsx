@@ -18,7 +18,7 @@ function About() {
             <div className="my-5">
                 <h3>Our Team</h3>
                 <div className="row">
-                <div className="col-md-6 mb-4">
+                <div className="col-md-6 mb-4 ">
                     <div className="card h-100">
                     <div className="card-body text-center">
                         <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80" className="rounded-circle mb-3" alt="Team Member" width={120} />

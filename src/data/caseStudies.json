@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Milo – Dental Surgery Success",
-    "image": "https://images.unsplash.com/photo-1598133894003-cdca350d3b38",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzNGGDUBfxkbXczCDQ1OBF3gmG3JdSrQU54HAanPElxL-dU9Uhn_X0NKTmE4iqpb7p20&usqp=CAU",
     "description": "Milo, a Persian cat, had severe gingivitis requiring dental extraction. The surgery was successful, and recovery was smooth with a soft diet regimen.",
     "vet": "Dr. Ayesha Khan",
     "date": "August 2025"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Bella – Skin Allergy Management",
-    "image": "https://images.unsplash.com/photo-1583511655794-4f2ec3d5f3f9",
+    "image": "https://www.petakids.com/wp-content/uploads/2014/07/all-about-cats-1.jpg",
     "description": "Bella, a Golden Retriever, showed signs of chronic skin irritation. A hypoallergenic diet and medicated baths reduced flare-ups significantly.",
     "vet": "Dr. Ravi Desai",
     "date": "May 2025"
@@ -54,29 +54,5 @@
     "description": "Coco, a 5-year-old Dachshund, struggled with obesity. A vet-supervised diet and exercise plan helped her shed 4kg over 3 months.",
     "vet": "Dr. Meera Patel",
     "date": "February 2025"
-  },
-  {
-    "id": 8,
-    "title": "Rocky – Tick Fever Recovery",
-    "image": "https://images.unsplash.com/photo-1603397469547-38ba4035f89c",
-    "description": "Rocky, an indie dog, was diagnosed with tick fever. Prompt treatment with antibiotics led to full recovery within 10 days.",
-    "vet": "Dr. Farhan Qureshi",
-    "date": "January 2025"
-  },
-  {
-    "id": 9,
-    "title": "Whiskers – Urinary Blockage Surgery",
-    "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d",
-    "description": "Whiskers, a male cat, was rushed in with a urinary blockage. Emergency surgery was performed and the cat recovered with a special diet.",
-    "vet": "Dr. Ayesha Khan",
-    "date": "December 2024"
-  },
-  {
-    "id": 10,
-    "title": "Buddy – Kennel Cough Recovery",
-    "image": "https://images.unsplash.com/photo-1583337130417-3346a1d3a2d4",
-    "description": "Buddy, a pug, contracted kennel cough after a kennel stay. With cough suppressants and rest, he bounced back within 2 weeks.",
-    "vet": "Dr. Ravi Desai",
-    "date": "November 2024"
   }
 ]
